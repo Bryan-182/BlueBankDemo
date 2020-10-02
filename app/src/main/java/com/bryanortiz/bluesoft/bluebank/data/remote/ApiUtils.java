@@ -6,7 +6,7 @@ public class ApiUtils {
     }
 
     //Ip con la que se inicie el json-server
-    static final String BASE_URL = "http://192.168.0.27:3000/";
+    static final String BASE_URL = "http://192.168.0.10:3000/";
 
     public static ApiService getAPIService() {
         return Client.getClient().create(ApiService.class);
