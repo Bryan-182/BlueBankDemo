@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BlueBank</string>
+
+    <string name="create_title">Crear Cuenta</string>
+    <string name="transfer_title">Depositar Dinero</string>
+    <string name="retirement_title">Retirar Dinero</string>
+    <string name="query_title">Consultar saldo</string>
+
+    <string name="text_create1">Nombre del titular</string>
+    <string name="text_create2">Valor inicial</string>
+    <string name="text_accountno">Numero de cuenta</string>
+    <string name="text_transfer2">Valor a depositar</string>
+    <string name="text_retirement2">Valor a retirar</string>
+    <string name="text_btn_create">Crear</string>
+    <string name="text_btn_transfer">Depositar</string>
+    <string name="text_btn_retirement">Retirar</string>
+    <string name="text_btn_query">Consultar</string>
+
+    <string name="text_result_create">Cuenta creada exitosamente. Cuenta #</string>
+    <string name="text_result_create_fail">Error al crear la cuenta</string>
+    <string name="text_result_transfer">Deposito realizado</string>
+    <string name="text_result_retirement">Retiro Exitoso</string>
+    <string name="text_result_fail">Error, verifique el numero y/o saldo de la cuenta</string>
+    <string name="text_result_fail_query">Error, verifique el numero de la cuenta</string>
+    <string name="text_result_btn">Cerrar</string>
+</resources>
