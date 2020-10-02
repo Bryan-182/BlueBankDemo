@@ -9,7 +9,7 @@ Tambien se puede consultar la pagina oficial https://www.npmjs.com/package/json-
 1. Instalar node.js en el PC y configurar las variables de entorno.
 2. Abrir la terminal y escribir "npm install -g json-server"
 3. Una vez instalada puede editar el archivo db.json que será la base de datos inicial del API, por defecto ya tiene un registro creado.
-4. Iniciar el servidor desde la terminal, ubicandose en la carpeta donde está la base de datos escribir "json-server --host 192.168.0.*** db.json"
+4. Iniciar el servidor desde la terminal, ubicandose en la carpeta donde está la base de datos (BlueBankDemo\API_BlueBank), escribir "json-server --host 192.168.0.*** db.json"
    reemplazando los *** por la IP del PC en el que se ejecutará el Servidor.
 5. Por defecto el puerto que se crea es el 3000.
 6. Una vez iniciado el servidor se puede consultar la URL desde el navegador, POSTMAN o la app.
@@ -34,7 +34,7 @@ You can also consult the official website https://www.npmjs.com/package/json-ser
 1. Install node.js on the PC and configure the environment variables.
 2. Open the terminal and type "npm install -g json-server"
 3. Once installed, you can edit the db.json file that will be the initial API database, by default it already has a record created.
-4. Start the server from the terminal, going to the folder where the database is, write "json-server --host 192.168.0. *** db.json"
+4. Start the server from the terminal, going to the folder where the database is (BlueBankDemo\API_BlueBank), write "json-server --host 192.168.0. *** db.json"
    replacing the *** with the IP of the PC on which the Server will run.
 5. By default the port that is created is 3000.
 6. Once the server has started, the URL can be consulted from the browser, POSTMAN or the app.
